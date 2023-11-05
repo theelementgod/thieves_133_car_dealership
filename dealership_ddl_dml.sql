@@ -182,4 +182,4 @@ INSERT INTO service_ticket(
 );
 
 SELECT *
-FROM invoice;
+FROM vehicle;
